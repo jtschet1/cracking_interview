@@ -1,1 +1,0 @@
-Reusable idea: building strings with dynamic arrays
